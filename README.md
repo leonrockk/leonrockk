@@ -10,7 +10,7 @@
 - [Blog]([url](https://github.com/Kenzie-Academy-Brasil-Developers/m2-entrega-blog-m2-leonrockk)) (HTML5, CSS, JavaScript, API)
   
 # - 📫 How to reach me:
-  - ![<Linkedin>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+  - ![<Linkedin>][url(https://www.linkedin.com/in/rochaleonardof/?locale=en_US)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 # - 👨🏻 About me: 
   
