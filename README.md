@@ -1,18 +1,19 @@
 # Hi there 👋
 
-### - 🔭 I’m currently working as a Developer Analyst at [Cognizant]([url](https://www.cognizant.com/us/en))
-### - 🌱 I’m currently learning Node.js and SQL
-### - 💻 My latest noteworthy projects are these:
+## - 🔭 I’m currently working as a Developer Analyst at [Cognizant](https://www.cognizant.com/us/en)
+## - 🌱 I’m currently learning Node.js and SQL
+## - 💻 My latest noteworthy projects are these:
 
-- [Kenzie Burger Shop]([url](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-hamburgueria-da-kenzie-leonrockk)) (React.js)  
-- [Nu Kenzie]([url](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-nu-kenzie-leonrockk)) An app to control your expenses (React.js) 
-- [Kenzie Food]([url](https://github.com/Kenzie-Academy-Brasil-Developers/api-kenziefood-m2-fferreiracanedo)) (HTML5, CSS, JavaScript, API)
-- [Blog]([url](https://github.com/Kenzie-Academy-Brasil-Developers/m2-entrega-blog-m2-leonrockk)) (HTML5, CSS, JavaScript, API)
+- [Kenzie Burger Shop](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-hamburgueria-da-kenzie-leonrockk) (React.js)  
+- [Nu Kenzie](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-nu-kenzie-leonrockk) An app to control your expenses (React.js) 
+- [Kenzie Food](https://github.com/Kenzie-Academy-Brasil-Developers/api-kenziefood-m2-fferreiracanedo) (HTML5, CSS, JavaScript, API)
+- [Blog](https://github.com/Kenzie-Academy-Brasil-Developers/m2-entrega-blog-m2-leonrockk) (HTML5, CSS, JavaScript, API)
   
-# - 📫 How to reach me:
-  - ![<Linkedin>][url(https://www.linkedin.com/in/rochaleonardof/?locale=en_US)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+## - 📫 How to reach me:
+  [![<Linkedin>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rochaleonardof/?locale=en_US)
 
-# - 👨🏻 About me: 
+
+## - 👨🏻 About me: 
   
 I've first come across with IT in early 2015 after being approved at the System Analysis and Development graduation course. However, I wasn't really sure if this was the area I'd like to delve myself in and ended up studying something else.
 
