@@ -1,4 +1,14 @@
-# Hi there 👋
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=leonrockk.leonrockk&left_text=Visitors"  />
+</div>
+
+###
+
+<h2 align="left">Hi 👋! My name is Leonardo and I'm a Front end developer, from Brazil</h2>
+
+###
 
 ## - 🔭 I’m currently working as a Developer Analyst at [Cognizant](https://www.cognizant.com/us/en)
 ## - 🌱 I’m currently learning Node.js and SQL
@@ -8,10 +18,8 @@
 - [Nu Kenzie](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-nu-kenzie-leonrockk) An app to control your expenses (React.js) 
 - [Kenzie Food](https://github.com/Kenzie-Academy-Brasil-Developers/api-kenziefood-m2-fferreiracanedo) (HTML5, CSS, JavaScript, API)
 - [Blog](https://github.com/Kenzie-Academy-Brasil-Developers/m2-entrega-blog-m2-leonrockk) (HTML5, CSS, JavaScript, API)
-  
-## - 📫 How to reach me:
-  [![<Linkedin>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rochaleonardof/?locale=en_US)
 
+###
 
 ## - 👨🏻 About me: 
   
@@ -26,3 +34,31 @@ In the first 3 modules, the focus was on developing front end applications and I
 The most remarkable segment of this period, apart from the many individual projects, was when I had to develop two projects from scratch along with some teammates facing real challenges, having daily meetings in which we discussed our ideas and searched for solutions when we faced any conflict of code.
 
 Currently, I'm in module 4, which means I've started developing REST APIs with CRUD functionalities by using Node.js.
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" width="42" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rochaleonardof/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:leonard_rock@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://www.instagram.com/leonrockk/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
+
+###
